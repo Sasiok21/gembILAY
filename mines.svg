@@ -1,0 +1,30 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 376" width="500" height="501">
+	<title>Untitled design</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m37.5 45.53h300.46v285.94h-300.46z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m187.5 45.53l35.41 109.22h114.59l-92.71 67.5 35.42 109.22-92.71-67.5-92.71 67.5 35.42-109.22-92.71-67.5h114.59z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(13.13,376,-375.067,13.098,180.935,0)">
+			<stop offset="0" stop-color="#fd6700"/>
+			<stop offset=".01" stop-color="#fd6700"/>
+			<stop offset=".99" stop-color="#ffce00"/>
+			<stop offset="1" stop-color="#ffce00"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m37.5 45.5h300.5v286h-300.5z"/>
+					<rect width="375" height="376" id="Заливка градиента 1" style="fill: url(#g1)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

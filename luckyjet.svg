@@ -1,0 +1,75 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 376" width="500" height="501">
+	<title>Untitled design</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m92.58 38.5h244.91v245.05h-244.91z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m255.83 182.72c8.65-5.85 17.08-12.63 24.92-20.46 49.84-49.85 56.74-123.76 56.74-123.76 0 0-73.92 6.9-123.76 56.74-7.84 7.84-14.61 16.27-20.46 24.92l-77.83 11.72-22.78 22.78 8.93 8.94 66.07 9.2c-8.8 26.2-10.67 46.2-10.67 46.2 0 0 20-1.88 46.2-10.68l9.2 66.07 8.94 8.94 22.78-22.79z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m255.83 182.72c8.65-5.85 17.08-12.63 24.92-20.46 49.84-49.85 56.74-123.76 56.74-123.76 0 0-73.92 6.9-123.76 56.74-7.84 7.84-14.61 16.27-20.46 24.92l-77.83 11.72-22.78 22.78 8.93 8.94 66.07 9.2c-8.8 26.2-10.67 46.2-10.67 46.2 0 0 20-1.88 46.2-10.68l9.2 66.07 8.94 8.94 22.78-22.79z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m459.78 166.41l-239.21-250.2-250.21 239.21 239.22 250.2z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(13.13,376,-375.067,13.098,180.935,0)">
+			<stop offset="0" stop-color="#fd6700"/>
+			<stop offset=".01" stop-color="#fd6700"/>
+			<stop offset=".99" stop-color="#ffce00"/>
+			<stop offset="1" stop-color="#ffce00"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m37.5 223.26h115.37v115.23h-115.37z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m146.06 260.75c-8.51 8.52-108.56 77.74-108.56 77.74 0 0 69.22-100.05 77.73-108.56 8.52-8.52 22.32-8.52 30.83 0 8.51 8.51 8.51 22.31 0 30.82z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m146.06 260.75c-8.51 8.52-108.56 77.74-108.56 77.74 0 0 69.22-100.05 77.73-108.56 8.52-8.52 22.32-8.52 30.83 0 8.51 8.51 8.51 22.31 0 30.82z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="m213.05 282.58l-114.39-119.64-119.64 114.38 114.39 119.64z"/>
+		</clipPath>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(13.13,376,-375.067,13.098,180.935,0)">
+			<stop offset="0" stop-color="#fd6700"/>
+			<stop offset="1" stop-color="#ffce00"/>
+		</linearGradient>
+	</defs>
+	<style>
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp3)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp4)">
+								<g id="Layer">
+									<rect width="375" height="376" id="Слой 1" style="fill: url(#g1)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp5)">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp6)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp7)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp8)">
+								<g id="Layer">
+									<rect width="375" height="376" id="Заливка градиента 1" style="fill: url(#g2)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
